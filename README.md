@@ -1,4 +1,4 @@
-# 🚀📊 ETF Liquidity & Institutional Block Trade Dashboard
+# 🚀📊 ETF AUM, Daily Volume & Block Trade Dashboard
 
 ## 🎯 Project Overview
 This project is designed to monitor and visualize key performance indicators for two specific ETF fund families: Global X and BetaPro. This project replaces manual data entry by integrating Python and Office Scripts to process high-frequency trading data across 36 distinct tickers for the Global X and BetaPro fund families.
