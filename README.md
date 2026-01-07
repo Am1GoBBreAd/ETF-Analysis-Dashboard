@@ -8,7 +8,7 @@ This project is designed to monitor and visualize key performance indicators for
 ## 🚀 Key Features
 
 ### **🐍 Python-Powered Dashboards**
-* Uses Pandas and Matplotlib to generate multi-asset grid visualizations.
+* Uses Pandas and Matplotlib within Excel to generate visualizations.
 * Tracks **AUM trends**, **daily volume**, and **trade frequency** in real-time summary tabs.
 
 ### **⚙️ Block Trade Automation**
@@ -20,7 +20,6 @@ This project is designed to monitor and visualize key performance indicators for
 
 ### **🏗️ Scalable Architecture**
 * Designed to handle 36 distinct tickers across various fund families.
-* Built to process detailed intraday timestamps for accurate liquidity tracking.
 
 ---
 
