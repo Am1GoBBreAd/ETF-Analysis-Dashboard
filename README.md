@@ -25,7 +25,7 @@ This project is designed to monitor and visualize key performance indicators for
 
 ## 🌟 Impact
 
-* **⏱️ Efficiency:** Significantly reduced the time required to generate weekly launch reports for senior management by automating data aggregation.
+* **⏱️ Efficiency:** Significantly reduced the time required to generate launch reports for management by automating data aggregation.
 * **💡 Institutional Insight:** Enhanced market sentiment analysis by isolating high-conviction "Block Trades" from standard retail flow.
 * **🎯 Data Integrity:** Eliminated human error in trade counting and manual formatting through standardized scripting.
 
