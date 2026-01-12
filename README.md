@@ -40,3 +40,4 @@ This project is designed to monitor and visualize key performance indicators for
 
 ## 🎓 About Me
 I am a Financial Analysis and Risk Management student @University of Waterloo. 🇨🇦🐈
+<br></p>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhirui-lyu-a0325030b/)
